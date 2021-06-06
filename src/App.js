@@ -7,13 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Iniciar travis.
-        </p>
-        <p>
-          Iniciar travis.
-        </p>
-        <p>
-          Iniciar travis.
+          Token do git hub.
         </p>
         <a
           className="App-link"
