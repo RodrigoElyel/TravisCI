@@ -7,13 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          TravisCI.
+          Exemplo de implementação do TravisCI.
         </p>
         <p>
-          TravisCI.
+          Engenharia de Software 2.
         </p>
         <p>
-          TravisCI.
+          Rodrigo Elyel Costa Batista.
         </p>
         <a
           className="App-link"
