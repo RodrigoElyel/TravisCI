@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TravisCI/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/TravisCI/static/js/main.9af77d7f.chunk.js",
-    "main.js.map": "/TravisCI/static/js/main.9af77d7f.chunk.js.map",
+    "main.js": "/TravisCI/static/js/main.f01142d3.chunk.js",
+    "main.js.map": "/TravisCI/static/js/main.f01142d3.chunk.js.map",
     "runtime-main.js": "/TravisCI/static/js/runtime-main.a8ed38d6.js",
     "runtime-main.js.map": "/TravisCI/static/js/runtime-main.a8ed38d6.js.map",
     "static/js/2.c327a5f8.chunk.js": "/TravisCI/static/js/2.c327a5f8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a8ed38d6.js",
     "static/js/2.c327a5f8.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9af77d7f.chunk.js"
+    "static/js/main.f01142d3.chunk.js"
   ]
 }
